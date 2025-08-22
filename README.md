@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Kelvin
 
 > A results-driven **IT and Operations Professional** with hands-on experience in **IT Support, Cloud Computing, and Cybersecurity**.  
-> I have worked at comapinies like  **Amazon** leading operations and performance improvements, and supported organizations with **technical troubleshooting, system administration, and cloud solutions**.
+> I have worked at companies like  **Amazon** leading operations and performance improvements, and supported organizations with **technical troubleshooting, system administration, and cloud solutions**.
 
 ---
 
