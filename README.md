@@ -120,9 +120,9 @@ _Feb 2023 – Nov 2023_
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=keusuanl-sec&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keusuanl-sec&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keusuanl-sec&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keusuanl-sec&theme=blueberry&show_icons=true&hide_border=false&count_private=true)<br/>
+![GitHub Stats](https://streak-stats.demolab.com?user=keusuanl-sec&theme=blueberry&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=keusuanl-sec&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
