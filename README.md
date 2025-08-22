@@ -13,7 +13,7 @@
 
 ## About Me
 
-Results-driven **IT and Operations professional** with proven leadership experience at **Amazon** and hands-on technical expertise in **IT support, cloud computing, and cybersecurity**. Skilled in troubleshooting hardware/software, managing Windows and Linux environments, and providing end-user support.
+Results-driven **IT and Operations professional** with proven leadership experience at **Amazon** and hands-on technical expertise in **IT support, cloud computing, and cybersecurity**. Skilled in basics help desk support, basic troubleshooting hardware/software, managing Windows and Linux environments, and providing end-user support. My strong curiosity for technology drives me to continuously learn and upskill, keeping me adaptable and future-ready
 
 Experienced in:
 
@@ -21,6 +21,7 @@ Experienced in:
 - VPN configuration
 - Cloud platforms (AWS & Azure)
 - Incident response and workflow optimization
+- HackTheBox Labs 
 
 Certified in **CompTIA A+** and **AWS Solutions Architect Associate**, with continuing education in **cybersecurity, DevOps, and IT operations**. Adept at problem-solving, process improvement, and operational performance optimization.
 
@@ -67,7 +68,7 @@ _Dec 2024 – Present_
 - Led workflow optimization initiatives improving team KPIs by 30%.
 - Delivered coaching sessions to 50+ associates on systems, safety, and compliance.
 - Oversaw daily operations, workstation setup, and quality audits.
-- Provided first-line technical support for scanners, labeling systems, and workstations.
+- Provided Basic first-line technical support for scanners, labeling systems, and workstations.
 - Enforced compliance with quality, safety, and data handling standards.
 
 ### Bespokeeliteservices | Southampton, United Kingdom (Remote)
@@ -86,7 +87,7 @@ _Feb 2023 – Nov 2023_
 ## Education
 
 - **High School Diploma**  
-  GCSE Paulson British International School, Benin City _(Dec 2025)_
+  GCSE Paulson British International School_
 
   - 9 GCSE (WAEC) at grade A-C including English and Mathematics
   - Coursework: IT & Risk Management
