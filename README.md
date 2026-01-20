@@ -145,7 +145,6 @@ _Feb 2023 – Nov 2023_
 - 💼 LinkedIn: [linkedin.com/in/kelvin-usuanlele-637272255](https://www.linkedin.com/in/kelvin-usuanlele-637272255)
 - ✍️ Medium: [@kusuanlele8](https://medium.com/@kusuanlele8)
 - 🌐 Bold Profile: [bold.pro/my/kelvin-usuanlele](https://bold.pro/my/kelvin-usuanlele-250701092022/106r)
-- 📍 Location: London, IG6 1BH, United Kingdom
 
 ---
 
